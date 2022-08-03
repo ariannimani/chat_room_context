@@ -2,24 +2,26 @@
 
 ### Setting up
 
-> npm install
+```npm install```
 
 Install React Router Dom
-> npm install react-router-dom@6
+
+```npm install react-router-dom@6```
 
 Install Material UI
-> npm install @mui/material @emotion/react @emotion/styled
+
+```npm install @mui/material @emotion/react @emotion/styled```
 
 Install Material UI Icons
-> npm install @mui/icons-material
+
+```npm install @mui/icons-material```
 
 Install Emoji Picker
-> npm install emoji-picker-react
 
-### Configuring
+```npm install emoji-picker-react```
 
 ### Running the project
 
-> npm start
+```npm start```
 
 # Enjoy the project
