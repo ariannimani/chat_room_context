@@ -24,4 +24,9 @@ Install Emoji Picker
 
 ```npm start```
 
+### Chat Login Credentials
+Username: test
+
+Password: test
+
 # Enjoy the project
